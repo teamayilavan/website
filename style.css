@@ -375,6 +375,7 @@ h2 {
     justify-content: center;
     gap: 2rem;
     text-align: center;
+  max-width:800px;
 }
 
 .projects a {
